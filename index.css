@@ -1,0 +1,19 @@
+h1 {
+    font-size: 70px;
+    text-align: center;
+    color: darkgreen;
+}
+
+p {
+    margin-left: 155px;
+    margin-right: 155px;
+    padding-right: 25px;
+    text-align: justify;
+    text-indent: 25px;
+    font-size: 22px;
+}
+
+img {
+    float: right;
+    padding-left: 35px;
+}
