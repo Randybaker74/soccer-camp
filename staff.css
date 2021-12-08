@@ -1,0 +1,44 @@
+
+h1 {
+    text-align: center;
+    color: green;
+    font-size: 70px;
+}
+
+p {
+    margin-left: 255px;
+    margin-right: 255px;
+    text-indent: 15px;
+    text-align: justify;
+    
+}
+
+
+
+aside {
+    display: block;
+    width: 400PX;
+    float: right;
+    background-color: ivory;
+    border: 1px solid black;
+    padding: 10px;
+    margin: 5px 0px 20px 20px;
+}
+
+aside img {
+    float: right;
+    margin: 5px;
+    height: 50%;
+    width: 50%;
+    border-radius: 50%;
+}
+
+aside {
+    height: 200px;
+    overflow: auto;
+}
+
+aside p {
+    margin-left: 20px;
+    margin-right: 20px;
+}
