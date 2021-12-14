@@ -1,0 +1,34 @@
+/* Navigation list layout*/
+nav {
+    display: table;
+    width: 100%;
+}
+
+nav > ul {
+    display: table-row;
+}
+
+nav > ul > li {
+    display: table-cell;
+    text-align: center;
+}
+
+
+
+nav > ul > li > a {
+    display: block;
+}
+
+footer {
+    text-align: center;
+  
+}
+
+
+body {
+    margin: 0%;
+    padding: 0;
+    height: 100%;
+}
+
+
